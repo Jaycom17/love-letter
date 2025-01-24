@@ -6,8 +6,8 @@ import { messages } from "./messages";
 const App = () => {
   const [open, setOpen] = useState(false);
   const [message, setMessage] = useState({
-    message: "Eres la mujer mas maravillosa del universo",
-    link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    message: "",
+    link: "",
   });
 
   const handleClick = () => {

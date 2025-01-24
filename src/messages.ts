@@ -18,15 +18,6 @@ export const messages = [
         message: "Te amo con todo mi corazón",
         link: "https://vt.tiktok.com/ZS6pmJqrv/"
     },{
-        message: "Gracias por estar a mi lado en todo momento",
-        link: "https://open.spotify.com/intl-es/track/2FkA1Pj0HaXh7sQb9zwkKh?si=979472dcfc5e490a"
-    },{
-        message: "Te adoro mi amor",
-        link: "https://open.spotify.com/intl-es/track/3lGMtkONrZdJ8kTCg6KIFf?si=914054937ebb4946"
-    },{
-        message: "Soy tu fan número uno",
-        link: "https://vt.tiktok.com/ZS6pao73h/"
-    },{
         message: "Tu voz es la música de mi vida",
         link: "https://open.spotify.com/intl-es/track/7dITAq1YP5e0kTcaDq4YWI?si=97f15d4c5d634972"
     },{
@@ -36,14 +27,8 @@ export const messages = [
         message: "Eres una increíble madre",
         link: "https://vt.tiktok.com/ZS6patmce/ "
     },{
-        message: "Te amo mas que ayer pero menos que mañana",
-        link: "https://open.spotify.com/intl-es/track/5QSYWruQQ7kBCHScI4xJ9g?si=f1dcc6831d3a4ba2"
-    },{
         message: "Cada dia contigo es un regalo",
         link: "https://vt.tiktok.com/ZS6paGJCo/"
-    },{
-        message: "Acostarme pensando en ti alegra mis noches",
-        link: "https://vt.tiktok.com/ZS6pa7CTt/"
     },{
         message: "Eres el amor de mi vida",
         link: "https://vt.tiktok.com/ZS6pauupY/"
@@ -87,5 +72,23 @@ export const messages = [
         message: "En algún universo envejesemos juntos, oro porque sea en este",
         link: "https://open.spotify.com/intl-es/track/0EhmTBq33eARyOz3SIi4P2?si=a35e35d92c744af3"
     },
+    //----------------------
+    //Enero 23
+    {
+        message: "Soy fan de todo lo que haces",
+        link: "https://vt.tiktok.com/ZS6GUrP8t/"
+    },{
+        message: "Siempre podrás contar conmigo, para lo que sea",
+        link: "https://vt.tiktok.com/ZS6GU3yQn/"
+    },{
+        message: "Cada dia que pasa te amo mas",
+        link: "https://vt.tiktok.com/ZS6GUonfT/"
+    },{
+        message: "Amo hasta tu forma de caminar",
+        link: "https://vt.tiktok.com/ZS6Gy1ecy/"
+    },{
+        message: "Cada dia intento ser mejor por y para ti",
+        link: "https://vt.tiktok.com/ZS6GUTy2g/"
+    }
     //----------------------
 ]
